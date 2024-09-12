@@ -32,6 +32,17 @@
   - Dropdown for categories
   - Adjustable product views
 
+## Login Interface
+  ![Login Interface](Images/login.png)
+## Admin Interface  
+  ![Admin Interface](Images/admin.png)
+## User Interface
+  ![User Interface](Images/adminuser.png)
+## Product Cataloge 
+  ![Product View](Images/view.png)
+## Cart View  
+  ![Cart Interface](Images/Usercart.png)
+
 ## Technologies Used
 - **Java**
 - **Swing** (for GUI)
@@ -55,7 +66,7 @@
 
 - **Login as User**:
   - Browse products, manage cart, place orders
-    
+
 ## Author
 #### Nilay Waghmare
 #### Aman Sahare
